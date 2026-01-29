@@ -12,14 +12,10 @@ ChaiCulture brings the elegance of heritage recipes to a modern audience. The de
 * **Clean Code:** Written with modern HTML5 and CSS3 following semantic naming conventions.
 
 ## 🛠️ Tech Stack
-* **Frontend:** HTML5, CSS3.
-* **Typography:** Playfair Display (Headings) & Lora (Body).
-* **Deployment:** [Add your link here, e.g., Netlify / Vercel].
+* **Frontend:** HTML5, CSS3, JavaScript.
+* **Deployment:** (https://pallabi-web.github.io/chaiculture/)
 
 ## 🎨 Design Choices
 I selected a warm, earth-toned color scheme to reflect the organic nature of tea while using gold accents to symbolize the "Royal" aspect of the brand. The layout is centered to keep the brand's tagline as the focal point, ensuring a seamless user experience that builds anticipation for the product launch.
 
-## 📂 Installation
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/chaiculture-landing.git](https://github.com/YOUR_USERNAME/chaiculture-landing.git)
+<img width="1899" height="924" alt="Screenshot 2026-01-29 184710" src="https://github.com/user-attachments/assets/d2f7da75-77b9-420d-af68-eb1b8d5a8305" />
